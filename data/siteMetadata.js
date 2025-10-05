@@ -2,8 +2,8 @@
 const siteMetadata = {
   title: 'leejkee',
   author: 'leejkee',
-  headerTitle: 'leejkee header title',
-  description: 'A blog created with Next.js and Tailwind.css',
+  headerTitle: 'leejkee',
+  description: 'Entity and instance apart, my sword alone divides.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://leejkee.github.io',
