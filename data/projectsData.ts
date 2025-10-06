@@ -7,12 +7,10 @@ interface Project {
 
 const projectsData: Project[] = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'TrayMusicPlayer',
+    description: `A light local music player with playlist management and lyric parser based on Qt Widgets`,
+    imgSrc: '/static/images/tray-music-logo.svg',
+    href: 'https://github.com/leejkee/TrayMusicPlayer',
   },
 ]
 

@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'leejkee',
   author: 'leejkee',
   headerTitle: 'leejkee',
-  description: 'Entity and instance apart, my sword alone divides.',
+  description: 'leejkee\'s blog',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://leejkee.github.io',
